@@ -15,7 +15,6 @@ Welcome to the **Classification Iris ML Apps** machine learning project reposito
 - [Lessons Learned](#lessons-learned)
 - [License](#license)
 - [Contact](#contact)
-- [Project Structure](#project-structure)
 
 ---
 
