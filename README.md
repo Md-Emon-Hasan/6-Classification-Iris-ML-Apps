@@ -1,6 +1,8 @@
 # Machine Learning Project: Classification Iris ML Apps
 
-Welcome to the **Classification Iris ML Apps** machine learning project repository! This project focuses on classifying iris flowers into three species using machine learning techniques and providing a simple web-based application for users to interact with.
+Welcome to the **Classification Iris ML Apps** machine learning project repository! This project focuses on classifying iris flowers into three species using machine learning techniques and providing a simple web-based application for users to interact with streamlit.
+
+![6](https://github.com/user-attachments/assets/17eeb822-c15f-4b9d-b2b6-af6e76e6ec12)
 
 ## 📋 Contents
 
